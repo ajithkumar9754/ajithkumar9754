@@ -20,3 +20,13 @@ AI & Data Engineering
 	•	Generative AI (LLMs, LangChain, LangGraph, Azure OpenAI, RAG)
 	•	FastAPI & LangGraph agentic workflow design
 	•	Intelligent document processing with Azure Document
+
+🔹 Certifications
+	•	AWS AI Practitioner (AIF-C01)
+	•	Azure AI Fundamentals (AI-900)
+	•	Mendix Certified Rapid Developer
+	•	AWS Certified Solutions Architect – Associate (SAA)
+	•	AWS Certified Solutions Architect – Professional
+	•	Google Certified Associate Cloud Engineer (ACE)
+	•	IBM Certified SOA Associate
+
