@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @ajithkumar9754
-- 👀 I’m Expert  in Java, Spring(Core,MVC, Boot, AOP,Cloud), Microservices, Cloud, REST, Kafka, Event Driven , Designing and Architecting
-- 🌱 I’m currently learning Python, Machine Learning, Deep Leanrning, Computer vision 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Core Skills & Expertise
 
-<!---
-ajithkumar9754/ajithkumar9754 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Leadership & Delivery
+	•	Engineering management of cross-functional teams (10+ engineers) across UK & EU
+	•	End-to-end software delivery: architecture → development → deployment
+	•	Agile / Scrum implementation, stakeholder management, and roadmap planning
+	•	Coaching, mentoring, and technical career growth of engineering teams
+
+Technical Expertise
+	•	Languages: Java (Core, Advanced), Python
+	•	Frameworks: Spring Boot, Spring Cloud, Hibernate, REST APIs
+	•	Architecture: Microservices, Event-Driven Systems, Domain-Driven Design (DDD)
+	•	Cloud Platforms: Azure, AWS (ECS, Lambda, CloudWatch, API Gateway)
+	•	DevOps & Tools: Docker, Kubernetes, Helm, Jenkins, GitHub Actions, Azure DevOps
+	•	Security: OAuth2, JWT, Spring Security, Veracode (SAST/DAST), DevSecOps pipelines
+	•	Databases & Messaging: PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ
+	•	Monitoring & Observability: Prometheus, Grafana, OpenTelemetry
+
+AI & Data Engineering
+	•	Generative AI (LLMs, LangChain, LangGraph, Azure OpenAI, RAG)
+	•	FastAPI & LangGraph agentic workflow design
+	•	Intelligent document processing with Azure Document
